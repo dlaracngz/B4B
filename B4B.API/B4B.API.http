@@ -1,0 +1,6 @@
+@B4B.API_HostAddress = http://localhost:5232
+
+GET {{B4B.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build files
+bin/
+obj/
+
+# Local configuration
+appsettings.Local.json
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log

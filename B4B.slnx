@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="B4B.API/B4B.API.csproj" Id="c524cca2-e720-4d3d-957f-2466e1ab710d" />
+  <Project Path="B4B.Application/B4B.Application.csproj" Id="1b5115bb-5f8c-4edd-9b50-0d69e3f504f6" />
+  <Project Path="B4B.Domain/B4B.Domain.csproj" Id="4155f658-4d04-4133-a1f9-5f53bdefae52" />
+  <Project Path="B4B.Infrastructure/B4B.Infrastructure.csproj" Id="550bc6e3-0cff-48ad-94e1-a4fdf547b2af" />
+</Solution>
